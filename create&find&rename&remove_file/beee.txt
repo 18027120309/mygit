@@ -1,0 +1,1 @@
+echo 傻逼，TeleVisionB，你个大傻瓜，作者弄死你>"your name.txt"
